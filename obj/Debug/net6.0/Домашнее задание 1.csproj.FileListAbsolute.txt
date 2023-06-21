@@ -1,0 +1,15 @@
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\obj\Debug\net6.0\Домашнее задание 1.csproj.AssemblyReference.cache
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\obj\Debug\net6.0\Домашнее задание 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\obj\Debug\net6.0\Домашнее задание 1.AssemblyInfoInputs.cache
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\obj\Debug\net6.0\Домашнее задание 1.AssemblyInfo.cs
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\obj\Debug\net6.0\Домашнее задание 1.csproj.CoreCompileInputs.cache
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\bin\Debug\net6.0\Домашнее задание 1.exe
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\bin\Debug\net6.0\Домашнее задание 1.deps.json
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\bin\Debug\net6.0\Домашнее задание 1.runtimeconfig.json
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\bin\Debug\net6.0\Домашнее задание 1.dll
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\bin\Debug\net6.0\Домашнее задание 1.pdb
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\obj\Debug\net6.0\Домашнее задание 1.dll
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\obj\Debug\net6.0\refint\Домашнее задание 1.dll
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\obj\Debug\net6.0\Домашнее задание 1.pdb
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\obj\Debug\net6.0\Домашнее задание 1.genruntimeconfig.cache
+C:\Users\a.drobysheva\Desktop\ДЗ\С#\ДЗ1\Домашнее задание 1\obj\Debug\net6.0\ref\Домашнее задание 1.dll
